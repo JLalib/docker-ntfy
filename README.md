@@ -18,3 +18,5 @@ curl -d "Mensaje" IP:PUERTO/NombreTópico
 Ejemplo: curl -d "Es una prueba de NTFY Genbyte" 192.168.1.101:8000/d86976fMhjuF5G
 
 ![image](https://github.com/user-attachments/assets/6de3aeb2-c1cf-460c-ae16-f1049eeffd16)
+
+Documentación oficial: https://docs.ntfy.sh/install/#docker
