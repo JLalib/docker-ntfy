@@ -1,5 +1,5 @@
 # NTFY
-NTFY | Servicio notificaciones NTFY autohospeado
+NTFY | Servicio notificaciones NTFY autohospeado en Docker
 
 Saber uid y gid; usar comando id
 
